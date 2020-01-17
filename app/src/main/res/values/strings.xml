@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Gimnasio</string>
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ingrese_contrase_a">Ingrese Contraseña</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="estatura">Estatura en CM</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
+    <string name="clave">Clave</string>
+    <string name="calendario">Calendario</string>
+    <string name="fecha">fecha</string>
+    <string name="peso">Peso en kg</string>
+    <string name="registrar">registrar</string>
+    <string name="registrar_actividad">Registrar Actividad</string>
+    <string name="consultar_registros">Consultar Registros</string>
+    <string name="volver">Volver</string>
+    <string name="bienvenid">Bienvenid@</string>
+    <string name="borrar">Borrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="altura">Altura en CM</string>
+    <string name="imc">imc</string>
+    <string name="salir">Salir</string>
+    <string name="lista_de_registros">Lista de Registros</string>
+    <string name="consultar_por_fecha">Consultar por fecha</string>
+    <string name="fecha_inicio">Fecha inicio</string>
+    <string name="fecha_termino">Fecha termino</string>
+    <string name="consultar_por_rango_de_fechas">Consultar por rango de fechas</string>
+    <string name="todo">TODO</string>
+</resources>
